@@ -1,0 +1,21 @@
+.ul-container{
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+}
+.li-items{
+    list-style: none;
+    padding: 15px;
+    text-decoration: none;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.li-items:hover{
+    color: rgb(69, 69, 211);
+    cursor: pointer;
+}
+.nav-container{
+    border-bottom: 2px solid brown;
+}

@@ -1,0 +1,26 @@
+.contact-container{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+.input{
+   width: 250px;
+   height: 25px;
+}
+.btn{
+    background-color: blue;
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.contact-heading{
+    margin-top: 15px;
+}
+.message{
+    height: 50px;
+    width: 250px;
+}

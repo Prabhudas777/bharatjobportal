@@ -1,0 +1,10 @@
+.privacy-container{
+    margin-left: 10px;
+    padding: 20px;
+}
+.privacy-heading,.effective-date,p,h2{
+    margin-bottom: 10px;
+}
+ol{
+    margin-left: 60px;
+}

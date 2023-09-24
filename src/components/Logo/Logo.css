@@ -1,0 +1,11 @@
+.logo{
+    color: rgb(52, 52, 173);
+    background-color: rgb(243, 243, 194);
+    font-size: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+    border-bottom: 2px solid grey;
+}

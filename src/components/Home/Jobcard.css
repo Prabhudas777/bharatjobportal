@@ -1,0 +1,30 @@
+.job-container{
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+   margin-left: 25px;
+   margin-bottom: 10px;
+}
+.read-more-button{
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+.logo-name{
+    height: 25px;
+    width: 250px;
+}
+.job-icon{
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+}
+.icon{
+    margin-right: 10px;
+}
+.job-title:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
